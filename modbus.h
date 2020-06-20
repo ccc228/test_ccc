@@ -4,7 +4,7 @@
  * SPDX-License-Identifier: LGPL-2.1+
  */
 
-#ifndef MODBUS_H
+#ifndef 
 #define MODBUS_H
 
 /* Add this for macros that defined unix flavor */
